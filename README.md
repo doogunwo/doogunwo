@@ -1,4 +1,4 @@
-![csharp-color](https://github.com/doogunwo/doogunwo/assets/87505243/cb31f013-7c07-461b-8a56-0e3be3014384)### Doogunwo👋
+### Doogunwo👋
 <!--
 **doogunwo/doogunwo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Uploadin<svg fill="#512BD4" role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Cg csharp-color.svg…]()
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
 
 💬블록체인, 분산화 시스템, 운영체제 비동기 입출력, 대규모 트래픽 처리에 대해서 관심 있어요.
 <br>
