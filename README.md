@@ -48,7 +48,24 @@ College student Research results
 <br>
 사이트에 회원가입과 얼굴을 등록해요.
 <br>
-![스크린샷 2024-01-08 173700](https://github.com/doogunwo/doogunwo/assets/87505243/e3dc3dbc-051b-408c-a63d-eba3b2f8e16d)
+![image (1)](https://github.com/doogunwo/doogunwo/assets/87505243/65154c61-a0ab-4edd-828a-445175c6fbef)
 <br>
 인식이 잘 되는 모습을 확인할 수 있어요.<br>
 타고버는 Flask, Nodejs, mysql, opencv를 사용하여 사용자에게 안면 인식 서비스를 제공하는 웹 서비스에요.
+
+<h1>
+  mini project
+  <h3>https://github.com/doogunwo/clivechat</h3>
+  <h3>https://github.com/doogunwo/colosus</h3>
+  <h3>https://github.com/doogunwo/HandlerShell</h3>
+  <h3>https://github.com/orgs/unbridled-foal/repositories</h3>
+  <h3>https://github.com/doogunwo/Simnayo</h3>
+  <h3>https://github.com/doogunwo/shop-for-flowers</h3>
+  <h3>https://github.com/doogunwo/Insta_crawler</h3>
+  <h3>https://github.com/doogunwo/library-management-program2</h3>
+</h1>
+
+<h1>
+  coding practice
+  <h3>https://github.com/doogunwo/algorithm</h3>
+</h1>
