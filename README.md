@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <hr>
 <a href="https://github.com/doogunwo"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=imysh578&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="Doogunwo Github Stats" /></a>
 <a href="https://github.com/doogunwo"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imysh578&layout=compact&theme=nord&hide_border=true" /></a> 
-<hr><br>
+<hr>
 College student Research results
 <br>
 [Implementation of YOLOv5-based forest fire smoke monitoring model with .pdf](https://github.com/doogunwo/doogunwo/files/13857664/Implementation.of.YOLOv5-based.forest.fire.smoke.monitoring.model.with.pdf)
@@ -46,9 +46,13 @@ College student Research results
 <hr>
 졸업작품 
 https://github.com/doogunwo/tagober
-<br>
+<hr>
+
 ![image](https://github.com/doogunwo/doogunwo/assets/87505243/fa8c2515-1698-49e1-b222-0f6b302d385e)
-<br>
+
+
+
+
 사이트에 회원가입과 얼굴을 등록해요.
 <br>
 ![image (1)](https://github.com/doogunwo/doogunwo/assets/87505243/65154c61-a0ab-4edd-828a-445175c6fbef)
