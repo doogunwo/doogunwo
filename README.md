@@ -28,10 +28,10 @@ Here are some ideas to get you started:
 <br>
 🔭 부산대학교 융합보안대학원 입학 2024-03 현재
 <br>
-
+<hr>
 <a href="https://github.com/doogunwo"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=imysh578&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="Doogunwo Github Stats" /></a>
 <a href="https://github.com/doogunwo"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imysh578&layout=compact&theme=nord&hide_border=true" /></a> 
-
+<hr><br>
 College student Research results
 <br>
 [Implementation of YOLOv5-based forest fire smoke monitoring model with .pdf](https://github.com/doogunwo/doogunwo/files/13857664/Implementation.of.YOLOv5-based.forest.fire.smoke.monitoring.model.with.pdf)
@@ -42,7 +42,10 @@ College student Research results
 <br>
 [화재 이미지를 학습한 Yolov5와 Yolov8 모델의 성능 비교.pdf](https://github.com/doogunwo/doogunwo/files/13857667/Yolov5.Yolov8.pdf)
 <br>
-졸업작품 https://github.com/doogunwo/tagober
+
+<hr>
+졸업작품 
+https://github.com/doogunwo/tagober
 <br>
 ![image](https://github.com/doogunwo/doogunwo/assets/87505243/fa8c2515-1698-49e1-b222-0f6b302d385e)
 <br>
@@ -50,9 +53,10 @@ College student Research results
 <br>
 ![image (1)](https://github.com/doogunwo/doogunwo/assets/87505243/65154c61-a0ab-4edd-828a-445175c6fbef)
 <br>
-인식이 잘 되는 모습을 확인할 수 있어요.<br>
+인식이 잘 되는 모습을 확인할 수 있어요.
+<br>
 타고버는 Flask, Nodejs, mysql, opencv를 사용하여 사용자에게 안면 인식 서비스를 제공하는 웹 서비스에요.
-
+<hr>
 <h1>
   mini project
   <h3>https://github.com/doogunwo/clivechat</h3>
