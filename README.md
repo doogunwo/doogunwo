@@ -34,13 +34,13 @@ Here are some ideas to get you started:
 <hr>
 College student Research results
 <br>
-[Implementation of YOLOv5-based forest fire smoke monitoring model with .pdf](https://github.com/doogunwo/doogunwo/files/13857664/Implementation.of.YOLOv5-based.forest.fire.smoke.monitoring.model.with.pdf)
+Implementation of YOLOv5-based forest fire smoke monitoring model with increased recognition of unstructured objects by increasing self-learning data(https://github.com/doogunwo/doogunwo/files/13857664/Implementation.of.YOLOv5-based.forest.fire.smoke.monitoring.model.with.pdf)
 <br>
-[DP23096_출원서.pdf](https://github.com/doogunwo/doogunwo/files/13857665/DP23096_.pdf)
+DP23096_출원서(https://github.com/doogunwo/doogunwo/files/13857665/DP23096_.pdf)
 <br>
-[YOLOv5를 이용한 객체 이중 탐지 방법.pdf](https://github.com/doogunwo/doogunwo/files/13857666/YOLOv5.pdf)
+YOLOv5를 이용한 객체 이중 탐지 방법(https://github.com/doogunwo/doogunwo/files/13857666/YOLOv5.pdf)
 <br>
-[화재 이미지를 학습한 Yolov5와 Yolov8 모델의 성능 비교.pdf](https://github.com/doogunwo/doogunwo/files/13857667/Yolov5.Yolov8.pdf)
+화재 이미지를 학습한 Yolov5와 Yolov8 모델의 성능 비교(https://github.com/doogunwo/doogunwo/files/13857667/Yolov5.Yolov8.pdf)
 <br>
 
 <hr>
