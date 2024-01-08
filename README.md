@@ -45,8 +45,11 @@ College student Research results
 
 <hr>
 졸업작품 
+<br>
+웹 서비스 기반 안면 인식 시스템 
+<br>
 https://github.com/doogunwo/tagober
-<hr>
+<br>
 
 ![image](https://github.com/doogunwo/doogunwo/assets/87505243/fa8c2515-1698-49e1-b222-0f6b302d385e)
 
