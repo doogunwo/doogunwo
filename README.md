@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/mysql-#4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-FCC624?style=for-the-badge&logo=mysql&logoColor=white">
 💬블록체인, 분산화 시스템, 운영체제 비동기 입출력, 대규모 트래픽 처리에 대해서 관심 있어요.
 <br>
 💬프로그래밍 언어와 컴파일러를 개발하고 싶어요.
