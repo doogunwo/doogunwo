@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 대학생때는 딥러닝의 데이터 학습 기법에 대해서 연구했어요. 
 컴퓨터공학에 대해서 전반적인 분야에 모두 관심이 있고 배우고 싶어요
 
-<a href="https://github.com/doogunwo"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=imysh578&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" /></a>
+<a href="https://github.com/doogunwo"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=imysh578&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="Doogunwo Github Stats" /></a>
