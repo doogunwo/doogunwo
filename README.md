@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/doogunwo"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=imysh578&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="Doogunwo Github Stats" /></a>
 <a href="https://github.com/doogunwo"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imysh578&layout=compact&theme=nord&hide_border=true" /></a> 
 
-Research results
+College student Research results
 <br>
 [Implementation of YOLOv5-based forest fire smoke monitoring model with .pdf](https://github.com/doogunwo/doogunwo/files/13857664/Implementation.of.YOLOv5-based.forest.fire.smoke.monitoring.model.with.pdf)
 <br>
@@ -41,3 +41,8 @@ Research results
 [YOLOv5를 이용한 객체 이중 탐지 방법.pdf](https://github.com/doogunwo/doogunwo/files/13857666/YOLOv5.pdf)
 <br>
 [화재 이미지를 학습한 Yolov5와 Yolov8 모델의 성능 비교.pdf](https://github.com/doogunwo/doogunwo/files/13857667/Yolov5.Yolov8.pdf)
+<br>
+졸업작품 https://github.com/doogunwo/tagober
+![image](https://github.com/doogunwo/doogunwo/assets/87505243/2f0330ad-48e5-410b-a979-0403b9b31f9b)
+![image](https://github.com/doogunwo/doogunwo/assets/87505243/462d898d-d06a-4e29-8860-535faf111cf6)
+Flask, Nodejs, mysql, opencv를 사용하여 사용자에게 안면 인식 서비스를 제공하는 웹 서비스에요.
