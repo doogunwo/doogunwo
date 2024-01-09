@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 🔭 부산대학교 융합보안대학원 입학 2024-03 현재
 <br>
 <hr>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자ID&show_icons=true&theme=radical)
 <a href="https://github.com/doogunwo"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=imysh578&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="Doogunwo Github Stats" /></a>
 <a href="https://github.com/doogunwo"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imysh578&layout=compact&theme=nord&hide_border=true" /></a> 
 <hr>
