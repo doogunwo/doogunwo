@@ -29,9 +29,9 @@ Here are some ideas to get you started:
 🔭 부산대학교 융합보안대학원 입학 2024-03 현재
 <br>
 <hr>
-
 ![Doogunwo's GitHub stats](https://github-readme-stats.vercel.app/api?username=doogunwo&theme=dark&layout=compact&show_icons=true&hide_border=true&cache=none)
-
+ ![Doogunwo's GitHub stats](https://github-readme-stats.vercel.app/api?username=doogunwo&theme=dark&theme=nord&layout=compact&show_icons=true&hide_border=true) 
+![Doogunwo's GitHub stats](https://github-readme-stats.vercel.app/api?username=doogunwo&theme=dark&layout=compact&show_icons=true&hide_border=true&cache=none)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doogunwo&layout=compact&theme=nord&hide_border=true)](https://github.com/doogunwo)
 <hr>
 College student Research results
