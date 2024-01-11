@@ -34,13 +34,9 @@ Here are some ideas to get you started:
 
 
 <hr>
-<div>
- 
- ![stats](https://github-readme-stats.vercel.app/api?username=doogunwo&show_icons=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doogunwo&layout=compact&theme=nord&hide_border=true)](https://github.com/doogunwo)
  
-</div>
+ ![stats](https://github-readme-stats.vercel.app/api?username=doogunwo&show_icons=true&theme=transparent)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doogunwo&layout=compact&theme=nord&hide_border=true)](https://github.com/doogunwo)
 
 <hr>
 College student Research results
