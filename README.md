@@ -13,7 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![stats](https://github-readme-stats.vercel.app/api?username=doogunwo&show_icons=true&theme=transparent)
+⚡기술스택
+<div>
+ <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
+</div>
 <br>
 💬블록체인, 분산화 시스템, 운영체제 비동기 입출력, 대규모 트래픽 처리에 대해서 관심 있어요.
 <br>
@@ -27,6 +30,10 @@ Here are some ideas to get you started:
 <br>
 🔭 부산대학교 융합보안대학원 입학 2024-03 현재
 <br>
+
+![stats](https://github-readme-stats.vercel.app/api?username=doogunwo&show_icons=true&theme=transparent)
+
+
 <hr>
 ![Doogunwo's GitHub stats](https://github-readme-stats.vercel.app/api?username=doogunwo&theme=dark&layout=compact&show_icons=true&hide_border=true&cache=none)
  ![Doogunwo's GitHub stats](https://github-readme-stats.vercel.app/api?username=doogunwo&theme=dark&theme=nord&layout=compact&show_icons=true&hide_border=true) 
