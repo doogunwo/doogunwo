@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <br>
 <hr>
 
-
+![Doogunwo's GitHub stats](https://github-readme-stats.vercel.app/api?username=doogunwo&theme=dark&theme=nord&layout=compact&show_icons=true&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doogunwo&layout=compact&theme=nord&hide_border=true)](https://github.com/doogunwo)
 <hr>
 College student Research results
