@@ -14,11 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ⚡기술스택
-<div>
- <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+
+프로그래밍 언어 : <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
 
-</div>
 <br>
 💬블록체인, 분산화 시스템, 운영체제 비동기 입출력, 대규모 트래픽 처리에 대해서 관심 있어요.
 <br>
@@ -37,9 +36,7 @@ Here are some ideas to get you started:
 
 <hr>
 
- 
  ![stats](https://github-readme-stats.vercel.app/api?username=doogunwo&show_icons=true&theme=transparent) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doogunwo&layout=compact)
-
 <hr>
 College student Research results
 <br>
