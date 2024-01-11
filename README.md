@@ -34,10 +34,14 @@ Here are some ideas to get you started:
 
 
 <hr>
-
-![stats](https://github-readme-stats.vercel.app/api?username=doogunwo&show_icons=true&theme=transparent)
+<div>
+ 
+ ![stats](https://github-readme-stats.vercel.app/api?username=doogunwo&show_icons=true&theme=transparent)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doogunwo&layout=compact&theme=nord&hide_border=true)](https://github.com/doogunwo)
+ 
+</div>
+
 <hr>
 College student Research results
 <br>
