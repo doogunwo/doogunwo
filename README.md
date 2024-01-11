@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 ⚡기술스택
 
-## Programming: <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white"> <img src="https://img.shields.io/badge/JAVA-FC4C02?style=for-the-badge&logo=JAVA&logoColor=white"> 
+## Programming: <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white"> <img src="https://img.shields.io/badge/JAVA-FC4C02?style=for-the-badge&logo=JAVA&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1EC?style=for-the-badge&logo=javascript&logoColor=white">
 
 
 <br>
