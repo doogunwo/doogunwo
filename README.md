@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 <hr>
 
- ![stats](https://github-readme-stats.vercel.app/api?username=doogunwo&show_icons=true&theme=transparent) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doogunwo&layout=compact)
+ ![stats](https://github-readme-stats.vercel.app/api?username=doogunwo&show_icons=true&theme=transparent?cache=None) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doogunwo&layout=compact)
 <hr>
 College student Research results
 <br>
