@@ -40,9 +40,8 @@ Here are some ideas to get you started:
 
 
 <hr>
+![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=doogunwo&theme=vue)
 
-![GitHub Commit Activity](https://github-readme-stats.vercel.app/api?username=doogunwo&include_all_commits=true&count_private=true)
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doogunwo&layout=compact)
 <hr>
 <h2>학부생 시절 성과</h2>
 <br>
