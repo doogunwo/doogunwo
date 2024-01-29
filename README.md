@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
  ![stats](https://github-readme-stats.vercel.app/api?username=doogunwo&show_icons=true&theme=transparent?cache=None) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doogunwo&layout=compact)
 <hr>
-College student Research results
+## 학부생 시절 성과
 <br>
 Implementation of YOLOv5-based forest fire smoke monitoring model with increased recognition of unstructured objects by increasing self-learning data(https://github.com/doogunwo/doogunwo/files/13857664/Implementation.of.YOLOv5-based.forest.fire.smoke.monitoring.model.with.pdf)
 <br>
