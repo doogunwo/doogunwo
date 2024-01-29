@@ -40,7 +40,13 @@ Here are some ideas to get you started:
 
 
 <hr>
+
 ![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=doogunwo&theme=vue)
+
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=doogunwo&theme=vue)
+
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=doogunwo&theme=vue)
+
 
 <hr>
 <h2>학부생 시절 성과</h2>
