@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=doogunwo&theme=vue)
 
-
+<h3>왜 Makefile이 저만큼 잡히지..??</h3>
 <hr>
 <h2>학부생 시절 성과</h2>
 <br>
