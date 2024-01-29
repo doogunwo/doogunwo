@@ -43,6 +43,10 @@ Here are some ideas to get you started:
 
 ![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=doogunwo&theme=vue)
 
+
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=doogunwo&theme=vue) ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=doogunwo&theme=vue)
+
+
 <h3>왜 Makefile이 저만큼 잡히지..??</h3>
 <hr>
 <h2>학부생 시절 성과</h2>
