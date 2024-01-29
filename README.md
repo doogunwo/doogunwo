@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 <hr>
 
- ![stats](https://github-readme-stats.vercel.app/api?username=doogunwo&show_icons=true&theme=transparent?cache=None) 
+ ![stats](https://github-readme-stats.vercel.app/api?username=doogunwo&show_icons=true&theme=transparent?cache=None) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doogunwo&layout=compact)
 <hr>
 <h2>학부생 시절 성과</h2>
 <br>
@@ -69,7 +69,7 @@ https://github.com/doogunwo/tagober
 
 사이트에 회원가입과 얼굴을 등록해요.
 <br>
-![image (1)](https://github.com/doogunwo/doogunwo/assets/87505243/65154c61-a0ab-4edd-828a-445175c6fbef) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doogunwo&layout=compact)
+![image (1)](https://github.com/doogunwo/doogunwo/assets/87505243/65154c61-a0ab-4edd-828a-445175c6fbef)
 <br>
 인식이 잘 되는 모습을 확인할 수 있어요.
 <br>
