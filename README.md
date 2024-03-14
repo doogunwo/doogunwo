@@ -52,7 +52,9 @@ Here are some ideas to get you started:
 <hr>
 <h2>학부생 시절 성과</h2>
 <br>
-Implementation of YOLOv5-based forest fire smoke monitoring model with increased recognition of unstructured objects by increasing self-learning data(https://github.com/doogunwo/doogunwo/files/13857664/Implementation.of.YOLOv5-based.forest.fire.smoke.monitoring.model.with.pdf)
+Implementation of YOLOv5-based forest fire smoke monitoring model with increased recognition of unstructured objects by increasing self-learning data
+<br>
+(https://github.com/doogunwo/doogunwo/files/13857664/Implementation.of.YOLOv5-based.forest.fire.smoke.monitoring.model.with.pdf)
 <br>
 DP23096_출원서(https://github.com/doogunwo/doogunwo/files/13857665/DP23096_.pdf)
 <br>
