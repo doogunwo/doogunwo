@@ -80,7 +80,12 @@ https://github.com/doogunwo/tagober
 <br>
 
 <hr>
-프로젝트1 : 합의형 블록체인 기반 소프트웨어 형상 관리 시스템
+프로젝트1 : 합의형 블록체인과 Nodejs를 사용한 식물 거래 플랫폼
+<br>
+
+<h3>https://github.com/doogunwo/Simnayo</h3>
+<hr>
+프로젝트2 : 합의형 블록체인 기반 소프트웨어 형상 관리 시스템
 <br>
 https://github.com/doogunwo/kin.git
 
@@ -88,12 +93,11 @@ https://github.com/doogunwo/kin.git
 
 <hr>
 <h1>
-  mini project
+  다양한 경험들
   <h3>https://github.com/doogunwo/clivechat</h3>
   <h3>https://github.com/doogunwo/colosus</h3>
   <h3>https://github.com/doogunwo/HandlerShell</h3>
   <h3>https://github.com/orgs/unbridled-foal/repositories</h3>
-  <h3>https://github.com/doogunwo/Simnayo</h3>
   <h3>https://github.com/doogunwo/shop-for-flowers</h3>
   <h3>https://github.com/doogunwo/Insta_crawler</h3>
   <h3>https://github.com/doogunwo/library-management-program2</h3>
