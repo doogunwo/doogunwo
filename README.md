@@ -56,11 +56,17 @@ Implementation of YOLOv5-based forest fire smoke monitoring model with increased
 <br>
 (https://github.com/doogunwo/doogunwo/files/13857664/Implementation.of.YOLOv5-based.forest.fire.smoke.monitoring.model.with.pdf)
 <br>
-DP23096_출원서(https://github.com/doogunwo/doogunwo/files/13857665/DP23096_.pdf)
+DP23096_출원서
 <br>
-YOLOv5를 이용한 객체 이중 탐지 방법(https://github.com/doogunwo/doogunwo/files/13857666/YOLOv5.pdf)
+(https://github.com/doogunwo/doogunwo/files/13857665/DP23096_.pdf)
 <br>
-화재 이미지를 학습한 Yolov5와 Yolov8 모델의 성능 비교(https://github.com/doogunwo/doogunwo/files/13857667/Yolov5.Yolov8.pdf)
+YOLOv5를 이용한 객체 이중 탐지 방법
+<br>
+(https://github.com/doogunwo/doogunwo/files/13857666/YOLOv5.pdf)
+<br>
+화재 이미지를 학습한 Yolov5와 Yolov8 모델의 성능 비교
+<br>
+(https://github.com/doogunwo/doogunwo/files/13857667/Yolov5.Yolov8.pdf)
 <br>
 
 <hr>
@@ -70,20 +76,15 @@ YOLOv5를 이용한 객체 이중 탐지 방법(https://github.com/doogunwo/doog
 <br>
 https://github.com/doogunwo/tagober
 <br>
-
-![image](https://github.com/doogunwo/doogunwo/assets/87505243/fa8c2515-1698-49e1-b222-0f6b302d385e)
-
-
-
-
-사이트에 회원가입과 얼굴을 등록해요.
-<br>
-![image (1)](https://github.com/doogunwo/doogunwo/assets/87505243/65154c61-a0ab-4edd-828a-445175c6fbef)
-<br>
-인식이 잘 되는 모습을 확인할 수 있어요.
-<br>
 타고버는 Flask, Nodejs, mysql, opencv를 사용하여 사용자에게 안면 인식 서비스를 제공하는 웹 서비스에요. 저는 이 프로젝트를 통해 서비스를 위한 프로그램 아키텍처를 구성하는 방법을 배웠어요. 그리고 웹서버간의 데이터통신을 통해 데이터를 처리하는 파이프라인과 웹에 대한 기초를 쌓을 수 있었어요.
-<h2>대학원 시절 성과... (Ing)</h2>
+<br>
+
+<hr>
+프로젝트1 : 합의형 블록체인 기반 소프트웨어 형상 관리 시스템
+<br>
+https://github.com/doogunwo/kin.git
+
+
 
 <hr>
 <h1>
