@@ -24,9 +24,6 @@ Here are some ideas to get you started:
 
 ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=doogunwo&theme=vue) ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=doogunwo&theme=vue)
 
-
-<br>
-Implementation of YOLOv5-based forest fire smoke monitoring model with increased recognition of unstructured objects by increasing self-learning data
 <br>
 (https://github.com/doogunwo/doogunwo/files/13857664/Implementation.of.YOLOv5-based.forest.fire.smoke.monitoring.model.with.pdf)
 <br>
