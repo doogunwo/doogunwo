@@ -1,29 +1,24 @@
-### Doogunwo
-<!--
-**doogunwo/doogunwo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Doogunwo, 도건우
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 Mail : doogunwo@pusan.ac.kr
-Hello
-I interested in "Blockchain", "Storage", "Disk".
-so, I loved "Rust" and "Go"
+<br>
+안녕하세요. 저는 블록체인을 좋아합니다. 블록체인과 연계된 LevelDB, Concensus, Storage, File system에도 관심이 있습니다. <br>
+프로그래밍 언어로는 "Go", "Rust"를 가장 좋아합니다.
 <br>
 <br>
 <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white"/>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
 
 <br>
+<br>
+학력
+|기간|학과|학교이름|학위|
+|2020 ~ 2024|컴퓨터공학과|동의대학교|학사|
+|2024 ~ 2026|컴퓨터공학과|부산대학교|석사|
 
+
+<br>
+<br>
 <hr>
 
 ![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=doogunwo&theme=vue)
