@@ -35,5 +35,5 @@ DP23096_출원서
 <br>
 (https://github.com/doogunwo/doogunwo/files/13857667/Yolov5.Yolov8.pdf)
 <br>
-[LevelDB 기반 Ethereum 클라이언트 디스크 증폭_포스터버전_4.pdf](https://github.com/user-attachments/files/16010766/LevelDB.Ethereum._._4.pdf)
+(https://github.com/user-attachments/files/16010766/LevelDB.Ethereum._._4.pdf)
 
