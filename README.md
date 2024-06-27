@@ -9,11 +9,11 @@ Mail : doogunwo@pusan.ac.kr
 <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white"/>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
 
-|제목|내용|설명|
-|------|---|---|
-|테스트1|테스트2|테스트3|
-|테스트1|테스트2|테스트3|
-|테스트1|테스트2|테스트3|
+|기간|학과|학교|학위|
+|------|---|---|---|
+|2020 - 2024|컴퓨터공학|동의대학교|학사|
+|2024 - 2026|컴퓨터공학|부산대학교|석사|
+
 <br>
 <br>
 
