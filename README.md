@@ -8,6 +8,7 @@ Mail : doogunwo@pusan.ac.kr
 <br>
 <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white"/>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
+
 |제목|내용|설명|
 |------|---|---|
 |테스트1|테스트2|테스트3|
@@ -15,6 +16,7 @@ Mail : doogunwo@pusan.ac.kr
 |테스트1|테스트2|테스트3|
 <br>
 <br>
+
 학력
 |기간|학과|학교이름|학위|
 |2020 ~ 2024|컴퓨터공학과|동의대학교|학사|
