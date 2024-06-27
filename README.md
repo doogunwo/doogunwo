@@ -27,15 +27,6 @@ Here are some ideas to get you started:
 💬
 <br>
 
-<br>
-
-🔭 동의대학교 컴퓨터공학과 졸업 2024-02
-<br>
-🔭 부산대학교 융합보안대학원 입학 2024-03 현재
-<br>
-
-
-
 <hr>
 
 ![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=doogunwo&theme=vue)
