@@ -27,8 +27,6 @@ Here are some ideas to get you started:
 <br>
 (https://github.com/doogunwo/doogunwo/files/13857664/Implementation.of.YOLOv5-based.forest.fire.smoke.monitoring.model.with.pdf)
 <br>
-DP23096_출원서
-<br>
 (https://github.com/doogunwo/doogunwo/files/13857665/DP23096_.pdf)
 <br>
 (https://github.com/doogunwo/doogunwo/files/13857666/YOLOv5.pdf)
