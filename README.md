@@ -24,15 +24,11 @@ Here are some ideas to get you started:
 ## Database : <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
 
 <br>
-💬블록체인, 분산화 시스템, 운영체제 비동기 입출력, 대규모 트래픽 처리에 대해서 관심 있어요.
+💬
 <br>
-💬프로그래밍 언어와 컴파일러를 개발하고 싶어요.
+
 <br>
-<br>
-🌱대학생때는 딥러닝의 데이터 학습 기법에 대해서 연구했어요. 컴퓨터공학에 대해서 전반적인 분야에 모두 관심이 있고 배우고 싶어요
-<br>
-🌱석사 과정 주제 == 블록체인 응용, 블록체인 생태계, 플래시 메모리, SSD FTL
-<br>
+
 🔭 동의대학교 컴퓨터공학과 졸업 2024-02
 <br>
 🔭 부산대학교 융합보안대학원 입학 2024-03 현재
