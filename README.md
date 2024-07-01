@@ -9,10 +9,10 @@ Mail : doogunwo@pusan.ac.kr
 
 저의 리포지토리를 소개드립니다.
 <br>
-[LSM-tree-Rsut](https://github.com/doogunwo/storage_engine.git) LSM 트리 기반 데이터베이스를  Rust로 구현하는 과제입니다.<br>
-[Walnut](https://github.com/doogunwo/Walnut.git) LSM tree를 블록체인 시스템에 최적화하는 연구입니다.<br>
-[CS study](https://github.com/doogunwo/Computer-Science.git) 소스코딩, 프로그래밍, 알고리즘 공부에 대한 기록을 남겼습니다.<br>
-[stosys](https://github.com/doogunwo/storage-system.git) stosys에 대한 기초를 위한 프로젝트입니다.<br>
+[LSM-tree-Rsut](https://github.com/doogunwo/storage_engine.git)   LSM 트리 기반 데이터베이스를  Rust로 구현하는 과제입니다.<br>
+[Walnut](https://github.com/doogunwo/Walnut.git)   LSM tree를 블록체인 시스템에 최적화하는 연구입니다.<br>
+[CS study](https://github.com/doogunwo/Computer-Science.git)   소스코딩, 프로그래밍, 알고리즘 공부에 대한 기록을 남겼습니다.<br>
+[stosys](https://github.com/doogunwo/storage-system.git)     stosys에 대한 기초를 위한 프로젝트입니다.<br>
 [Togober](https://github.com/doogunwo/Tagober_server.git) 졸업과제를 위해 구현한 js 기반 웹서버입니다.<br>
 [Simnayo](https://github.com/doogunwo/Simnayo.git) 하이퍼렛저 기반 탈중앙화 애플리케이션 개발 테스트입니다.<br>
 [incra](https://github.com/doogunwo/Insta_crawler.git) 기업 인턴 기간중 개발했던 인스타그램 기반 데이터 수집 크롤러입니다.<br>
