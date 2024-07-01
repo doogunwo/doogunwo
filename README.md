@@ -1,5 +1,5 @@
 ### Doogunwo, 도건우
-
+# 소개
 Mail : doogunwo@pusan.ac.kr
 <br>
 안녕하세요 도건우입니다. 이곳은 저의 프로젝트를 기록하는 개인 저장소입니다. 논문 정리와 개발 히스토리 및 저의 공부 기록은 
@@ -27,6 +27,8 @@ Mail : doogunwo@pusan.ac.kr
 <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white"/>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
 
+# 학위
+
 |기간|학과|학교|학위|
 |------|---|---|---|
 |2020 - 2024|컴퓨터공학|동의대학교|학사|
@@ -35,7 +37,7 @@ Mail : doogunwo@pusan.ac.kr
 <br>
 <br>
 
-
+# 깃허브
 
 <br>
 <br>
@@ -46,6 +48,7 @@ Mail : doogunwo@pusan.ac.kr
 
 ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=doogunwo&theme=vue) ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=doogunwo&theme=vue)
 
+# 연구성과
 <br>
 (https://github.com/doogunwo/doogunwo/files/13857664/Implementation.of.YOLOv5-based.forest.fire.smoke.monitoring.model.with.pdf)
 <br>
