@@ -2,8 +2,11 @@
 
 Mail : doogunwo@pusan.ac.kr
 <br>
-안녕하세요. 저는 블록체인을 좋아합니다. 블록체인과 연계된 LevelDB, Concensus, Storage, File system에도 관심이 있습니다. <br>
-프로그래밍 언어로는 "Go", "Rust"를 가장 좋아합니다.
+안녕하세요 도건우입니다. 이곳은 저의 프로젝트를 기록하는 개인 저장소입니다. 논문 정리와 개발 히스토리 및 저의 공부 기록은 [블로그](https://velog.io/@doogunwo/posts) 에서 확인해주세요.
+저는 블록체인, 데이터베이스, 디스크, 운영체제를 연구 및 개발하고 있습니다.
+
+지금까지 경험한 프로젝트를 소개드립니다.
+
 <br>
 <br>
 <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white"/>
