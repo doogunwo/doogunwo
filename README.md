@@ -21,6 +21,7 @@ Mail : doogunwo@pusan.ac.kr
 [memo](https://github.com/doogunwo/memo.git) 안드로이드 스튜디오에 대한 기본을 학습하기 위해 진행된 메모 앱 프로젝트입니다.<br>
 [shop Flower](https://github.com/doogunwo/shop-for-flowers.git) Java 기초 습득용 프로젝트입니다. mysql과 연동을 통해 DB기초를 공부할 수 있었습니다.<br>
 [colosus](https://github.com/doogunwo/colosus.git) c언어를 이용한 파일 암호화 프로토콜입니다. RSA를 사용했습니다.<br>
+[Diskanomaly](https://github.com/doogunwo/DiskAnomaly) AAD 모델을 활용한 디스크 이상 탐지 프로젝트입니다. <br>
 <br><br>
 <br>
 <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white"/>
