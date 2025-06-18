@@ -3,7 +3,7 @@
 Mail : doogunwo@pusan.ac.kr
 <br>
 
-
+관심사 키워드 : 블록체인, 엣지 컴퓨팅
 
 # 학위
 
