@@ -1,29 +1,33 @@
-### Doogunwo, 도건우
-# 소개
-Mail : doogunwo@pusan.ac.kr
-<br>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2e8e7cb1-32ec-48d5-ae63-f3bd832c1078" alt="profile" width="120" style="border-radius: 50%; border:2px solid #eee;">
+</p>
 
-관심사 키워드 : 블록체인, 엣지 컴퓨팅, 분산 스토리지
+<h2 align="center">Doogunwo (도건우)</h2>
 
-# 학위
+<p align="center">
+  <a href="mailto:doogunwo@pusan.ac.kr"><img src="https://img.shields.io/badge/Email-doogunwo@pusan.ac.kr-blue?style=flat&logo=gmail"></a>
+</p>
 
-|기간|학과|학교|학위|
-|------|---|---|---|
-|2020 - 2024|컴퓨터공학|동의대학교|학사|
-|2024 - 2026|정보컴퓨터공학|부산대학교|석사|
-|2026 - 20**|전기전자컴퓨터|광주과학기술원|박사(진학예정)|
+<p align="center">
+  <b>블록체인&nbsp;|&nbsp;엣지 컴퓨팅&nbsp;|&nbsp;분산 스토리지</b>
+</p>
 
-<br>
-<br>
+---
 
-# 깃허브
+## 🎓 학위
 
-<br>
-<br>
-<hr>
+| 기간         | 학과            | 학교            | 학위           |
+| ------------ | --------------- | --------------- | -------------- |
+| 2020 - 2024  | 컴퓨터공학      | 동의대학교      | 학사           |
+| 2024 - 2026  | 정보컴퓨터공학  | 부산대학교      | 석사           |
+| 2026 - 20\*\*| 전기전자컴퓨터  | 광주과학기술원  | 박사 (진학예정) |
 
-![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=doogunwo&theme=vue)
+---
 
+## 🏆 GitHub Stats
 
-![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=doogunwo&theme=vue) ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=doogunwo&theme=vue)
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=doogunwo&theme=vue" alt="Profile Summary Card"><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=doogunwo&theme=vue" height="140"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=doogunwo&theme=vue" height="140"/>
+</p>
