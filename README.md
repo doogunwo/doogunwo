@@ -9,17 +9,19 @@
 </p>
 
 <p align="center">
-  <b>블록체인&nbsp;|&nbsp;엣지 컴퓨팅&nbsp;|&nbsp;분산 스토리지</b>
+  <b>블록체인&nbsp;|&nbsp;분산 컴퓨팅&nbsp;|&nbsp;스토리지 분리화</b>
 </p>
 
 ---
+# Submit
+[] SBNF :  An SPDK-Based Platform for I/O-Optimized Near-Data Processing, Gunwoo Do [Writing]
+[NVMSA] Poster: A Near-data tokenization platform for reducing data movement overhead in disaggregated storage systems, Gunwoo Do [Submit]
 # 출판
-[한국정보통신학회] YOLOv5를 이용한 객체 이중 탐지 방법, 도건우, 김민영, 장시웅
 
-[IJACT] Implementation of YOLOv5-based Forest Fire Smoke Monitoring Model with Increased Recognition of Unstructured Objects by Increasing Self-learning data, Gun-wo Do, Minyoung Kim, Si-woong Jang
 
 [한국정보통신학회] 화재 이미지를 학습한 Yolov5와 Yolov8 모델의 성능 비교, 도건우, 김동현, 장시웅
-
+[IJACT] Implementation of YOLOv5-based Forest Fire Smoke Monitoring Model with Increased Recognition of Unstructured Objects by Increasing Self-learning data, Gun-wo Do, Minyoung Kim, Si-woong Jang
+[한국정보통신학회] YOLOv5를 이용한 객체 이중 탐지 방법, 도건우, 김민영, 장시웅
 
 ---
 
