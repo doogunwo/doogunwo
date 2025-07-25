@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2e8e7cb1-32ec-48d5-ae63-f3bd832c1078" alt="profile" width="120" style="border-radius: 50%; border:2px solid #eee;">
+  <img src="https://github.com/user-attachments/assets/2e8e7cb1-32ec-48d5-ae63-f3bd832c1078" alt="profile" width="120">
 </p>
 
 <h2 align="center">Gunwoo Do (도건우)</h2>
@@ -13,15 +13,19 @@
 </p>
 
 ---
-# Submit
-[] SBNF :  An SPDK-Based Platform for I/O-Optimized Near-Data Processing, Gunwoo Do [Writing]
-[NVMSA] Poster: A Near-data tokenization platform for reducing data movement overhead in disaggregated storage systems, Gunwoo Do [Submit]
-# 출판
 
+## 📝 Submit & Writing
 
-[한국정보통신학회] 화재 이미지를 학습한 Yolov5와 Yolov8 모델의 성능 비교, 도건우, 김동현, 장시웅
-[IJACT] Implementation of YOLOv5-based Forest Fire Smoke Monitoring Model with Increased Recognition of Unstructured Objects by Increasing Self-learning data, Gun-wo Do, Minyoung Kim, Si-woong Jang
-[한국정보통신학회] YOLOv5를 이용한 객체 이중 탐지 방법, 도건우, 김민영, 장시웅
+- **[Writing] SBNF:** An SPDK-Based Platform for I/O-Optimized Near-Data Processing, Gunwoo Do
+- **[Submit] [NVMSA] Poster:** A Near-data tokenization platform for reducing data movement overhead in disaggregated storage systems, Gunwoo Do
+
+---
+
+## 📚 출판
+
+- [한국정보통신학회] 화재 이미지를 학습한 Yolov5와 Yolov8 모델의 성능 비교, 도건우, 김동현, 장시웅  
+- [IJACT] Implementation of YOLOv5-based Forest Fire Smoke Monitoring Model with Increased Recognition of Unstructured Objects by Increasing Self-learning data, Gun-wo Do, Minyoung Kim, Si-woong Jang  
+- [한국정보통신학회] YOLOv5를 이용한 객체 이중 탐지 방법, 도건우, 김민영, 장시웅  
 
 ---
 
