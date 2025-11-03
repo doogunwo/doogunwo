@@ -22,7 +22,8 @@
 ---
 
 ## 📚 출판
-- [NVMSA] Poster:** A Near-data tokenization platform for reducing data movement overhead in disaggregated storage systems, Gunwoo Do
+- [정보과학회] 분리형 스토리지 환경에서 BPE 토크나이제이션을 위한 Near-data processing 플랫폼
+- [NVMSA 2025] Poster:** A Near-data tokenization platform for reducing data movement overhead in disaggregated storage systems, Gunwoo Do
 - [한국정보통신학회] 화재 이미지를 학습한 Yolov5와 Yolov8 모델의 성능 비교, 도건우, 김동현, 장시웅  
 - [IJACT] Implementation of YOLOv5-based Forest Fire Smoke Monitoring Model with Increased Recognition of Unstructured Objects by Increasing Self-learning data, Gun-wo Do, Minyoung Kim, Si-woong Jang  
 - [한국정보통신학회] YOLOv5를 이용한 객체 이중 탐지 방법, 도건우, 김민영, 장시웅  
