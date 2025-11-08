@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <b>블록체인&nbsp;|&nbsp;분산 컴퓨팅&nbsp;|&nbsp;스토리지 분리화</b>
+  <b>Blockchain Consensus Algorithm &nbsp;|&nbsp;Distributed Computing &nbsp;|&nbsp; DAG </b>
 </p>
 
 ---
