@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <b>Blockchain Consensus Algorithm &nbsp;|&nbsp;Distributed Computing &nbsp;|&nbsp; DAG </b>
+ 
 </p>
 
 ---
