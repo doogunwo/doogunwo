@@ -2,8 +2,8 @@
   <img src="https://github.com/user-attachments/assets/2e8e7cb1-32ec-48d5-ae63-f3bd832c1078" alt="profile" width="120">
 </p>
 
-<h2 align="center">Gunwoo Do (도건우)</h2>
-
+<h2 align="center">Gunwoo Do</h2>
+<h2 align="center">Research Interests: System for ML, On-device/Embedded LLM Inference, Efficient LLM Serving Systems, Blockchain </h2>
 <p align="center">
   <a href="mailto:doogunwo@pusan.ac.kr"><img src="https://img.shields.io/badge/Email-doogunwo@pusan.ac.kr-blue?style=flat&logo=gmail"></a>
 </p>
