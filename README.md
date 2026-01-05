@@ -3,7 +3,9 @@
 </p>
 
 <h2 align="center">Gunwoo Do</h2>
-<h2 align="center">Research Interests: System for ML, On-device/Embedded LLM Inference, Efficient LLM Serving Systems, Blockchain </h2>
+
+ Research Interests: System for ML, On-device/Embedded LLM Inference, Efficient LLM Serving Systems, Blockchain
+ 
 <p align="center">
   <a href="mailto:doogunwo@pusan.ac.kr"><img src="https://img.shields.io/badge/Email-doogunwo@pusan.ac.kr-blue?style=flat&logo=gmail"></a>
 </p>
