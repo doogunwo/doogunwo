@@ -23,8 +23,7 @@
     </ul>
   </div>
 </div>
-## 🏆 GitHub Stats
-
+<h3>🏆 GitHub Stats</h3>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=doogunwo&theme=vue" alt="Profile Summary Card"><br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=doogunwo&theme=vue" height="140"/>
