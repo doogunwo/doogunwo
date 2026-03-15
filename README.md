@@ -16,10 +16,8 @@
   <div align="left" style="max-width: 800px; margin: 0 auto;">
     <h3>🚀 Research & Technical Interests</h3>
     <ul>
+      <li>Operating Systems, Network, and Storage System</li>
       <li><b>System for ML & Efficient LLM Serving Systems</b></li>
-      <li><b>On-device / Embedded LLM Inference & Model Compression</b></li>
-      <li><b>High-performance Distributed Systems & Blockchain Infrastructure</b></li>
-      <li>Operating Systems, Network, and Storage System Internals</li>
     </ul>
   </div>
 </div>
