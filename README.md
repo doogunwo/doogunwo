@@ -2,11 +2,11 @@
   <img src="https://github.com/user-attachments/assets/2e8e7cb1-32ec-48d5-ae63-f3bd832c1078" alt="Gunwoo Do" width="150">
 
   <h1>Gunwoo Do</h1>
-  <h3>Storage Systems & System Software</h3>
+  <h3>Storage Systems, Firmware & Systems for ML</h3>
 
   <p>
     Interested in the software stack between applications and modern storage devices —
-    from NVMe and user-space I/O to SSD firmware, FTL design, and storage-aware systems.
+    from NVMe and user-space I/O to SSD firmware, FTL design, and storage systems for data-intensive ML workloads.
   </p>
 
   <p>
@@ -19,6 +19,7 @@
     <img src="https://img.shields.io/badge/NVMe-Storage-0067A3?style=flat-square" alt="NVMe">
     <img src="https://img.shields.io/badge/SPDK-User--space%20I%2FO-6A5ACD?style=flat-square" alt="SPDK">
     <img src="https://img.shields.io/badge/SSD-Firmware-444444?style=flat-square" alt="SSD Firmware">
+    <img src="https://img.shields.io/badge/Storage-Systems%20for%20ML-B65FCF?style=flat-square" alt="Storage Systems for ML">
     <img src="https://img.shields.io/badge/Linux-Systems-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux Systems">
   </p>
 </div>
@@ -28,7 +29,8 @@
 - **NVMe and SSD systems** — host/device I/O paths, queueing, latency, and device behavior
 - **Storage firmware** — flash translation layers, garbage collection, mapping, and data placement
 - **High-performance I/O** — SPDK, user-space storage stacks, and near-data processing
-- **Storage intelligence** — workload analysis, caching, and anomaly detection
+- **Storage systems for ML** — data loading, caching, checkpointing, and I/O paths for training and inference
+- **ML for storage** — workload characterization, anomaly detection, and data-driven storage optimization
 - **System software** — operating systems, networking, and efficient ML serving
 
 ## Selected work
